@@ -29,14 +29,14 @@ Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh
 
 ## Checkpoints:
 	The checkpoints are provided for:
-	1. Scratch trained checkpoints for REVIDE and RainSynAll100 datasets.
-	2. Keep the checkpoints in "./checkpoints/dataset/"
-Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/file/d/144BGWIvF2d-dZA6_8y9rBgbbO9CvxULH/view?usp=sharing)
+	1. Keep the checkpoints in "./checkpoint/{}/"
+	2. Use the checkpoints provided in "ckpt" for synthetically generated day and night-time video de-hazing and de-raining with veiling effect case.
+
+Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/file/d/1jQwxKfTeRclIXJYpM7yA6UI42VvD01tc/view?usp=sharing)
 
 ## Testing Procedure:
-	1. select options  --dataset, --test_dir, --checkpoint_path in "options.py"  
-	2. Run "testing.py"
-	3. Results will be saved in --output_path
+	1. Run "test.py"
+	3. Results will be saved in "outputs" folder
 
 ## Database:
 
