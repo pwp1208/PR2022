@@ -40,8 +40,8 @@ Download the checkpoint: [![Checkpoint](https://img.shields.io/badge/Checkpoint-
 
 ## Database:
 
-
 Synthetically Generated Day and Night-time Weather Degraded Database is available at: [![Database](https://img.shields.io/badge/Database-<COLOR>.svg)](https://drive.google.com/drive/folders/1bmtJc2098liM0iOVM3Nb3S6xugvoKy_f?usp=sharing)
+Please use DAVIS-2016 database for ground-truth purpose.
 
 ```
 
