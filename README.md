@@ -25,7 +25,7 @@ Prashant W Patil, Sunil Gupta, Santu Rana, and Svetha Venkatesh
 	PIL
 
 ## Testing Videos:
-	Keep Testing Videos Frames in "videos/{dataset}" folder.
+	Keep Testing Videos Frames in "video/{dataset}" folder.
 
 ## Checkpoints:
 	The checkpoints are provided for:
